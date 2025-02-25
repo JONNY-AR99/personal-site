@@ -1,0 +1,14 @@
+body{
+color:coral ;
+background-color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(2, 141, 2);
+    text-align-last: center;
+}
+
+a{
+    color: crimson;
+}
